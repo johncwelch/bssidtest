@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.113.202 clang-1400.0.16.2)"
+options: "86098d84dc42e9423fb1b987513fbd0d973967b3ee33cb6c4c22d7ff5280d8fa"
+build_start_time: [1656435204, 795683860]
+build_end_time: [1656435206, 410952091]
+inputs:
+  "/Users/jwelch/Desktop/xcode tests/bssidtest/bssidtest/ContentView.swift": [1656435204, 669968605]
+  "/Users/jwelch/Desktop/xcode tests/bssidtest/bssidtest/bssidtestApp.swift": [1656434860, 597535133]

@@ -1,0 +1,12 @@
+{
+  "source": "/Users/jwelch/Desktop/xcode tests/bssidtest/bssidtest/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
