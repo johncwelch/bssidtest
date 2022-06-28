@@ -37,6 +37,8 @@ struct ContentView: View {
 		   } else {
 			   print("No BSSID data")
 		   }
+
+		   //optional method using function in bssidtestApp
 		   //let bssidStatus = getBSSIDName()
 		   //print(bssidStatus)
 	   }
