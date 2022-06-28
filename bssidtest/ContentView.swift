@@ -26,7 +26,7 @@ struct ContentView: View {
 		   let myWiFiClient = CWWiFiClient.shared()
 		   //get interface
 		   let myWiFiInterface = myWiFiClient.interface()
-		   //get location manager
+		   //get location manager and try to get auth
 		   let myLocationManager = CLLocationManager()
 		   myLocationManager.requestWhenInUseAuthorization()
 		   myLocationManager.startUpdatingLocation()
